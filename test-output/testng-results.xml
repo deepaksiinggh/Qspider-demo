@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-25T15:16:01 IST" name="Default suite" finished-at="2025-07-25T15:16:10 IST" duration-ms="9183">
+    <groups>
+    </groups>
+    <test started-at="2025-07-25T15:16:01 IST" name="Default test" finished-at="2025-07-25T15:16:10 IST" duration-ms="9183">
+      <class name="Cheackbox_radiobutton.Cheack_Toggle">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:01 IST" name="preCondition" finished-at="2025-07-25T15:16:06 IST" duration-ms="4925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="cheackBox()[pri:1, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:06 IST" name="cheackBox" finished-at="2025-07-25T15:16:08 IST" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cheackBox -->
+        <test-method signature="radio()[pri:2, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:08 IST" name="radio" finished-at="2025-07-25T15:16:10 IST" duration-ms="1926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radio -->
+        <test-method signature="getImageAttribute()[pri:3, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:10 IST" name="getImageAttribute" finished-at="2025-07-25T15:16:10 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getImageAttribute -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:10 IST" name="postCondition" finished-at="2025-07-25T15:16:10 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- Cheackbox_radiobutton.Cheack_Toggle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
