@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-25T15:16:01 IST" name="Default suite" finished-at="2025-07-25T15:16:10 IST" duration-ms="9183">
+  <suite started-at="2025-07-26T11:33:31 IST" name="Default suite" finished-at="2025-07-26T11:33:41 IST" duration-ms="10607">
     <groups>
     </groups>
-    <test started-at="2025-07-25T15:16:01 IST" name="Default test" finished-at="2025-07-25T15:16:10 IST" duration-ms="9183">
-      <class name="Cheackbox_radiobutton.Cheack_Toggle">
-        <test-method is-config="true" signature="preCondition()[pri:0, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:01 IST" name="preCondition" finished-at="2025-07-25T15:16:06 IST" duration-ms="4925" status="PASS">
+    <test started-at="2025-07-26T11:33:31 IST" name="Default test" finished-at="2025-07-26T11:33:41 IST" duration-ms="10607">
+      <class name="slideBar_DropDown.slideBarDropdown">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:slideBar_DropDown.slideBarDropdown@544fa968]" started-at="2025-07-26T11:33:31 IST" name="preCondition" finished-at="2025-07-26T11:33:35 IST" duration-ms="4128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="cheackBox()[pri:1, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:06 IST" name="cheackBox" finished-at="2025-07-25T15:16:08 IST" duration-ms="1710" status="PASS">
+        <test-method signature="slideBar()[pri:1, instance:slideBar_DropDown.slideBarDropdown@544fa968]" started-at="2025-07-26T11:33:35 IST" name="slideBar" finished-at="2025-07-26T11:33:37 IST" duration-ms="2598" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cheackBox -->
-        <test-method signature="radio()[pri:2, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:08 IST" name="radio" finished-at="2025-07-25T15:16:10 IST" duration-ms="1926" status="PASS">
+        </test-method> <!-- slideBar -->
+        <test-method signature="handleDropDown()[pri:2, instance:slideBar_DropDown.slideBarDropdown@544fa968]" started-at="2025-07-26T11:33:37 IST" name="handleDropDown" finished-at="2025-07-26T11:33:40 IST" duration-ms="2999" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- radio -->
-        <test-method signature="getImageAttribute()[pri:3, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:10 IST" name="getImageAttribute" finished-at="2025-07-25T15:16:10 IST" duration-ms="123" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getImageAttribute -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:Cheackbox_radiobutton.Cheack_Toggle@d35dea7]" started-at="2025-07-25T15:16:10 IST" name="postCondition" finished-at="2025-07-25T15:16:10 IST" duration-ms="448" status="PASS">
+        </test-method> <!-- handleDropDown -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:slideBar_DropDown.slideBarDropdown@544fa968]" started-at="2025-07-26T11:33:41 IST" name="postCondition" finished-at="2025-07-26T11:33:41 IST" duration-ms="814" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-      </class> <!-- Cheackbox_radiobutton.Cheack_Toggle -->
+      </class> <!-- slideBar_DropDown.slideBarDropdown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

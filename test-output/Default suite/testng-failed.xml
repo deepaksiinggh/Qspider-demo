@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Cheackbox_radiobutton.Cheack_Toggle">
+      <class name="slideBar_DropDown.slideBarDropdown">
         <methods>
           <include name="preCondition"/>
-          <include name="getImageAttribute"/>
-          <include name="radio"/>
+          <include name="handleDropDown"/>
           <include name="postCondition"/>
         </methods>
-      </class> <!-- Cheackbox_radiobutton.Cheack_Toggle -->
+      </class> <!-- slideBar_DropDown.slideBarDropdown -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
