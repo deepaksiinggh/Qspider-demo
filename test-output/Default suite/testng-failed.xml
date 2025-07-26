@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="form.FormValidation">
+      <class name="audio_video.Audio_video">
         <methods>
-          <include name="formValidation"/>
+          <include name="testVideo"/>
           <include name="preCondition"/>
           <include name="postCondition"/>
         </methods>
-      </class> <!-- form.FormValidation -->
+      </class> <!-- audio_video.Audio_video -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
