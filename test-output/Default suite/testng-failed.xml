@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="slideBar_DropDown.slideBarDropdown">
+      <class name="form.FormValidation">
         <methods>
+          <include name="formValidation"/>
           <include name="preCondition"/>
-          <include name="handleDropDown"/>
           <include name="postCondition"/>
         </methods>
-      </class> <!-- slideBar_DropDown.slideBarDropdown -->
+      </class> <!-- form.FormValidation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

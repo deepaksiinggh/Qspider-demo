@@ -38,7 +38,7 @@ public class slideBarDropdown extends BaseClass {
 		Select sel4 = new Select(city);
 		sel4.selectByValue("Rewa");
 		driver.findElement(By.id("continuebtn")).click();
-	    	
+	    
 		
 	}
 }
